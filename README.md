@@ -22,8 +22,8 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) blog application that
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/PLP-MERN-Stack-Development/week-4-mern-integration-assignment-Mwosa.git
+cd week-4-mern-integration-assignment-Mwosa
 ```
 
 ### 2. Install Dependencies
