@@ -102,4 +102,4 @@ npm run dev
 ---
 
 ## 👤 Author
-- [Your Name](https://github.com/your-username) 
+- [Nelson Mwosa](https://github.com/Mwosa) 
