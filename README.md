@@ -97,7 +97,6 @@ npm run dev
 
 ## 📝 Additional Notes
 - **.env files** and `node_modules` are excluded from version control.
-- For advanced features (auth, image upload, pagination, etc.), see project issues or roadmap.
 
 ---
 
